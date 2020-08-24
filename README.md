@@ -24,5 +24,4 @@ after cloning the repo:
 cd timestamp-microservice
 npm install
 npm start
-curl 
 ```
